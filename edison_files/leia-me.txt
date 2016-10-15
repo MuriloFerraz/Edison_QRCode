@@ -1,0 +1,25 @@
+Exemplo de controle de acendimento de led por mesnagem codificada em QR Code
+
+Sugestão de montagem:
+
+1:
+Intel Edison w Arduino Expansion Board
+LED -> Pin D2
+Grove-LCD RGB -> I2C
+Webcam -> USB
+Arquivo: qr_decode_lcd.py
+
+2:
+Intel Edison w Arduino expansion Board
+LED -> Pin D2
+Webcam -> USB
+Arquivo: qr_decode.py
+
+Como Utililizar:
+ 1. Acessr instructables para saber como baixar e instalar as libs necessárias para
+o exemplo funcionar corretamente.
+
+2. Inicie o Srcipt na Intel Edison
+
+3, Inicie a aplicação cliente no computador.
+
