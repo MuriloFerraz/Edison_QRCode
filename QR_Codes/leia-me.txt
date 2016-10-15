@@ -1,0 +1,8 @@
+Imagens de exemplo de QR Code
+
+A imagem "00.png" contém "00", neste código serve para apagar o LED
+
+A imagem "01,png" por sua vez, contém "01" e serve para acender o LED.
+
+Imprima as imagens ou abra no computador e aponte a webcan para captura do
+QR Code.
