@@ -1,0 +1,6 @@
+Aplicação cliente
+
+Este programa foi disponibilizado aqui com autorização do autor, Prof. André Curvello.
+
+O programa também está disponível em:
+http://www.embarcados.com.br/visao-computacional-opencv-intel-edison/
