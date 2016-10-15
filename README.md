@@ -10,3 +10,6 @@ mensagem codificadas em QR Code
 - Grove-LCD RGB - I2C (Opcional)
 - Cabo USB A-B
 - Fonte 12V 1A
+
+# Mais sobre QR Code
+- http://dsynflo.blogspot.com.br/2014/10/opencv-qr-code-detection-and-extraction.html
