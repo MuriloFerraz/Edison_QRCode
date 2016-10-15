@@ -16,10 +16,10 @@ Webcam -> USB
 Arquivo: qr_decode.py
 
 Como Utililizar:
- 1. Acessr instructables para saber como baixar e instalar as libs necessárias para
-o exemplo funcionar corretamente.
+ 1. Acesse (instructables) para saber como baixar e instalar as libs necessárias 
+ para o exemplo funcionar corretamente.
 
 2. Inicie o Srcipt na Intel Edison
 
-3, Inicie a aplicação cliente no computador.
+3. Inicie a aplicação cliente no computador.
 
